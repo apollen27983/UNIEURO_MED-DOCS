@@ -45,4 +45,5 @@
   <rect x="692" y="588" width="220" height="48" rx="14" fill="#FFFFFF" stroke="#7F1D1D" stroke-width="1.5"/>
   <g transform="translate(725.765625 602.0) scale(1.0)" fill="none" stroke="#7F1D1D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M8 3H5a2 2 0 0 0-2 2v10a2 2 0 0 0 2 2h3M13 6l4 4-4 4M17 10H8"/></g>
   <text x="753.8" y="617.4" font-family="Inter" font-size="15" font-weight="600" fill="#7F1D1D">Sair do aplicativo</text>
+  <text x="936.0" y="618" font-family="Inter" font-size="14" font-weight="600" fill="#7F1D1D">Desativar minha conta</text>
 </svg>
